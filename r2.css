@@ -1,0 +1,28 @@
+p{
+	text-align: center;
+	margin-left: 40px;
+	margin-right: 40px;
+	font-size: large;
+	
+}
+img{
+	width: 40%;
+	display: block;
+	margin-right: auto;
+	margin-left: auto;
+	
+	margin-top: 25px;
+	margin-bottom: 25px;
+}
+#formm{
+	text-align: center;
+}
+.end{
+	text-align: center;
+}
+body{
+	background-color: tomato;
+}
+h1{
+	text-align: center;
+}
